@@ -6,6 +6,8 @@ The motivation behind this project is to understand real world applications of t
 The Robot will use two DC motors to push itself forward, and utilize a DC motor driver for complete control over each motors speed which will allow us to control the robots direction as well. A single rotating wheel will be used to support the robot from the front and assist with turning.
 The robot will also be powered by two Li-Ion batteries, and the IR sensors will help us with the error correction and will tell the robot how far it is from the black line.
 All of these components will connect to the Arduino which is the main microcontroller we will run our PID controller program on.
+
+Tools used:
 - Computer with Arduino IDE
 - 1x Arduino microcontroller (can use others)
 - 1x L298N DC motor driver
