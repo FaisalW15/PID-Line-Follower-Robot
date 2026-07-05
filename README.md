@@ -14,6 +14,7 @@ Tools used:
 - 1x L298N DC motor driver
 - 1x 360 degree rotating swivel wheel
 - 1x boost converter
+- 1x 18650 battery holder
 - 2x DC motors (3V - 6V)
 - 2x Standerd Rubber Wheels
 - 2x 18650 Li-Ion batteries
