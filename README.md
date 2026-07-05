@@ -9,6 +9,7 @@ All of these components will connect to the Arduino which is the main microcontr
 
 Tools used:
 - Computer with Arduino IDE
+- Wires
 - 1x Arduino microcontroller (can use others)
 - 1x L298N DC motor driver
 - 1x 360 degree rotating swivel wheel
