@@ -26,5 +26,5 @@ The block diagram below shows how all the components connect together.
 The robot will be powered by two 3.7V Li-Ion batteries which will be connected to the DC motor driver. Since the DC motor driver can take no less than 12V, we'll use a
 boost converter to boost from 3.7V to 12V. The two DC motors which will allow the robot to move forward and turn will also be connected to the IN ports of the DC motor Driver. The motor driver will output 5V to power the Arduino
 
-The IR sensors connect to the Arduino and send whether the black line is detected or not and send that as a digital OUT signal of either 1 or 0. 
+The IR sensors connect to the Arduino and send whether the black line is detected or not and send that as a digital OUT signal of either 1 or 0. .
 ![image alt](https://github.com/FaisalW15/PID-Line-Follower-Robot/blob/main/PID_Line_Follower_Block_Diagram.png?raw=true)
